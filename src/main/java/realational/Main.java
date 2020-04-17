@@ -13,7 +13,7 @@ public class Main {
 
         @Override
         public String toString() {
-            return "User{" + "id=" + id + ", name='" + name + '\'' + ", tel='" + '}';
+            return "User{" + "id=" + id + ", name='" + name + '\'' + '}';
         }
     }
 
